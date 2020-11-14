@@ -15,7 +15,7 @@ bl_info = {
     "description": "Import-Export BombSquad .bob files.",
     "author": "Mrmaxmeier",
     "version": (0, 0),
-    "blender": (2, 77, 0),
+    "blender": (2, 86, 0),
     "location": "File > Import-Export",
     "warning": "",
     "wiki_url": "",
